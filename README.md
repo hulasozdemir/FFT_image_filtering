@@ -1,2 +1,3 @@
 Fourier transformation based image filtering.
-Required Pluto notebook.
+
+Requires Pluto notebook.
